@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-color: #eee;
+}
+main{
+    padding: 0px;
+    border:solid #333;
+    border-radius: 20px;
+}
+h1,p{
+    text-align: center;
+}
+.image{
+    text-align: center;
+    background-color: #eee;
+}
+.list{
+    margin:0;
+    padding:20px 375px 20px 375px;
+}
+
+span{
+    font-weight: bold;
+}
+blockquote{
+    padding:0 375px 20px 375px;
+}
+.citation{
+    padding:0 350px 20px 375px;
+}
+ul li{
+    padding-bottom: 25px;
+}
+.footer{
+    font-weight: bold;
+    font-size: 23px;
+    padding-bottom: 30px;
+    padding-left:10px;
+    padding-right:10px;
+}
